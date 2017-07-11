@@ -8,3 +8,4 @@ title: "Welcome to our slide deck!"
 
 When all Jenkins tests pass first time
 IMAGINATION!
+Made it past hump day!
