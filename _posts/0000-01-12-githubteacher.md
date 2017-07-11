@@ -8,3 +8,4 @@ title: "Welcome to our slide deck!"
 
 You find out your code fails the CI tests
 You deploy on a Friday
+When the dog wakes up during a class and your mic is on
