@@ -7,7 +7,7 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 Did the programmer's love of coffee name JavaScript?
-Or does JavaScript just cause the programmer to need coffee?
+Or does JavaScript cause the programmer to need coffee?
 
 If you try to help and fail, does that make you helpful?
 
