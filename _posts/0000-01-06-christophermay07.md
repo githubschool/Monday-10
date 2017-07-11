@@ -7,3 +7,4 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 When all Jenkins tests pass first time
+IMAGINATION!
