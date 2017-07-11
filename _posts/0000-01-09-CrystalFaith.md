@@ -7,6 +7,7 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 Did the programmer's love of coffee name JavaScript?
-Or does JavaScript just cause the programmer to need cooffffeeeee?
+Or does JavaScript cause the programmer to need coffee?
+
 
 If a kitten does something cute, and no one is around to post it on the internet, did it happen?
